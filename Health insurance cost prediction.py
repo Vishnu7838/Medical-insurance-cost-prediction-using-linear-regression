@@ -15,7 +15,7 @@ from sklearn.linear_model import LinearRegression
 # In[3]:
 
 
-df = pd.read_csv("insurance.csv")
+df = pd.read_csv("Medical Price Dataset.csv")
 
 
 # In[4]:
